@@ -1,6 +1,6 @@
 # 💫 About Me:
-<h1 align="right">Hi 👋, I'm Aba Ehi</h1>
-<h3 align="right">It's never too late to learn.</h3>
+<h1 align="left">Hi 👋, I'm Aba Ehi</h1>
+<h4 align="left">It's never too late to learn.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeromche&label=Profile%20views&color=0e75b6&style=flat" alt="aeromche" /> </p>
 
